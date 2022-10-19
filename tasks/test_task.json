@@ -1,0 +1,9 @@
+{
+    "taskText": ["Multiply a number from input by 2"],
+    "testCases": [
+        {
+            "stdin": ["1"],
+            "stdout": ["1"]
+        }
+    ]
+}
