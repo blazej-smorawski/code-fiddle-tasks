@@ -1,9 +1,17 @@
 {
-    "taskText": ["Multiply a number from input by 2"],
-    "testCases": [
+    "task_text": ["Multiply a number from input by 2", "G00D LUCK!"],
+    "test_cases": [
         {
             "stdin": ["1"],
-            "stdout": ["1"]
+            "stdout": ["2"]
+        },
+        {
+            "stdin": ["2"],
+            "stdout": ["4"]
+        },
+        {
+            "stdin": ["3"],
+            "stdout": ["6"]
         }
     ]
 }
